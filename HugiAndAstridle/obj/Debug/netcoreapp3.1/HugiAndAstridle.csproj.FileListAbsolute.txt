@@ -1,3 +1,11 @@
 U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.csprojAssemblyReference.cache
 U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.AssemblyInfoInputs.cache
 U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.AssemblyInfo.cs
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\bin\Debug\netcoreapp3.1\HugiAndAstridle.exe
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\bin\Debug\netcoreapp3.1\HugiAndAstridle.deps.json
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\bin\Debug\netcoreapp3.1\HugiAndAstridle.runtimeconfig.json
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\bin\Debug\netcoreapp3.1\HugiAndAstridle.runtimeconfig.dev.json
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\bin\Debug\netcoreapp3.1\HugiAndAstridle.dll
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\bin\Debug\netcoreapp3.1\HugiAndAstridle.pdb
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.dll
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.pdb
