@@ -1,0 +1,3 @@
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.csprojAssemblyReference.cache
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.AssemblyInfoInputs.cache
+U:\Users\744220\source\repos\HugiAndAstridle\HugiAndAstridle\obj\Debug\netcoreapp3.1\HugiAndAstridle.AssemblyInfo.cs
